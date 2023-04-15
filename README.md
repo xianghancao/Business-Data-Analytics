@@ -84,8 +84,8 @@ if(条件表达式):
 ![random_split](第3章_Numpy科学计算包/image/random_split.png)
 
 模型训练完，也就是决策树生成完毕后，就可以将样本内的数据输入到模型中。然后，观察模型预测的结果和真实的标签，两者之间的差异，这代表了模型的学习能力。
-![train_fit](第8章_机器学习模型/6.3_决策树/image/train_fit.png)
+![train_fit](第8章_机器学习模型/8.3_决策树/image/train_fit.png)
 
 在模型学习到刘小姐的偏好后，就可以在刘小姐不在线的时候，也可以帮助其筛选样本了。当输入新的未知标签的数据到模型，模型会根据已经训练后的决策树的路径，很多就可以对样本进行分类，属于“Yes”还是“No”。
 
-![decision_predict](第8章_机器学习模型/6.3_决策树/image/decision_predict.png)
+![decision_predict](第8章_机器学习模型/8.3_决策树/image/decision_predict.png)
