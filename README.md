@@ -1,7 +1,9 @@
 # Business-Data-Analytics
  《商业数据分析》的授课课件（包含作业）
-版本号：V2.04
-更新日期：2023.6.7
+版本号：V2.05
+更新日期：2023.6.12
+最新版在Github更新：https://github.com/goosemayor/Business-Data-Analytics
+
 
 ## 本课件的特点
 - 课上练习多，且容易上手。每一个知识点均搭配一个练习，帮助学生迅速巩固对于知识点的理解。
