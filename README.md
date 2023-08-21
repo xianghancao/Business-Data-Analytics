@@ -1,7 +1,7 @@
 # Business-Data-Analytics
  《商业数据分析》的授课课件（包含作业）
-版本号：V2.05
-更新日期：2023.6.12
+版本号：V2.06
+更新日期：2023.8.21
 最新版在Github更新：https://github.com/goosemayor/Business-Data-Analytics
 
 
@@ -11,27 +11,34 @@
 - 图片多，示例多。大部分知识点应用可视化的方式，降低学习难度。
 
 ## 课件目录
+- 作业答案
+  - 作业答案-第1章_商业数据分析导论.ipynb
+  - 作业答案-第2章 Python基本知识.ipynb
+  - 作业答案-第3章 Numpy.ipynb
+  - 作业答案-第4章 Pandas.ipynb
+  - 作业答案-第5章 matplotlib.ipynb
+  - 作业答案-第6章_数据爬取与处理.ipynb
 - 第1章_商业数据分析导论
   - 1.1 大数据的概念.ipynb
   - 1.2 案例与前沿.ipynb
-  - 1.3 Python介绍.ipynb
+  - 作业.ipynb
+- 第2章_Python基本知识
+  - 2.1 Python介绍.ipynb
+  - 2.2 数据类型.ipynb
+  - 2.3 流程控制.ipynb
+  - 2.4 函数与模块.ipynb
+  - 作业.ipynb
+  - 练习答案.ipynb
   - 附录-latex语法.ipynb
   - 附录-markdown语言.ipynb
   - 附录-为什么学习编程和Python.ipynb
   - 附录-为什么我输入慢.ipynb
-  - 附录-解决jupyterlab浏览器无法跳转问题.pdf
-  - 附录_Jupyter介绍.ipynb
-  - 附录_Jupyter在线使用.ipynb
-- 第2章_Python基本知识
-  - 1 数据类型.ipynb
-  - 2 流程控制.ipynb
-  - 3 函数与模块.ipynb
-  - 作业.ipynb
-  - 练习答案.ipynb
   - 附录-函数的参数.ipynb
   - 附录-更多练习与答案
+  - 附录-解决jupyterlab浏览器无法跳转问题.pdf
   - 附录-输入输出
   - 附录-面向对象
+  - 附录_Jupyter介绍.ipynb
 - 第3章_Numpy科学计算包
   - 3.1 Numpy介绍.ipynb
   - 3.2 Numpy的一维数组.ipynb
@@ -67,9 +74,11 @@
   - 6.2 网页爬虫——代码爬虫.ipynb
   - 6.3 数据预处理.ipynb
   - 作业.ipynb
+  - 练习答案.ipynb
 - 第7章_文本分析处理
   - 7.1 文本分析——NLTK.ipynb
   - 7.2 词云绘制——wordcloud库.ipynb
+  - nltk
   - 作业.ipynb
   - 练习答案.ipynb
   - 附录：中文字体和中文显示.ipynb
@@ -85,6 +94,4 @@
   - 9.1 案例分析的一般流程.ipynb
   - 9.2 商业数据分析大赛案例赏析.ipynb
   - 9.3 案例分析报告参考——巧克力销量影响因素研究.ipynb
-  - 作业.ipynb
   - 附录-案例库
-
