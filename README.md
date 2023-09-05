@@ -1,8 +1,8 @@
 # Business-Data-Analytics
  《商业数据分析》的授课课件（包含作业）
-版本号：V2.06
-更新日期：2023.8.21
-最新版在Github更新：https://github.com/goosemayor/Business-Data-Analytics
+版本号：V2.07
+更新日期：2023.9.2
+最新版在Github更新：https://github.com/xianghancao/Business-Data-Analytics
 
 
 ## 本课件的特点
@@ -11,13 +11,6 @@
 - 图片多，示例多。大部分知识点应用可视化的方式，降低学习难度。
 
 ## 课件目录
-- 作业答案
-  - 作业答案-第1章_商业数据分析导论.ipynb
-  - 作业答案-第2章 Python基本知识.ipynb
-  - 作业答案-第3章 Numpy.ipynb
-  - 作业答案-第4章 Pandas.ipynb
-  - 作业答案-第5章 matplotlib.ipynb
-  - 作业答案-第6章_数据爬取与处理.ipynb
 - 第1章_商业数据分析导论
   - 1.1 大数据的概念.ipynb
   - 1.2 案例与前沿.ipynb
