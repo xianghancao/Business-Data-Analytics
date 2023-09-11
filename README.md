@@ -1,7 +1,7 @@
 # Business-Data-Analytics
  《商业数据分析》的授课课件（包含作业） 
-版本号：V2.08  
-更新日期：2023.9.8  
+版本号：V2.09  
+更新日期：2023.9.11  
 最新版在Github更新：https://github.com/xianghancao/Business-Data-Analytics  
 本课程部分原创，部分引用，部分借鉴，如果侵权，请联系删除。
 
