@@ -1,7 +1,7 @@
 # Business-Data-Analytics
  《商业数据分析》的授课课件（包含作业） 
-版本号：V2.10  
-更新日期：2023.9.17  
+版本号：V2.12    
+更新日期：2023.10.24  
 最新版在Github更新：https://github.com/xianghancao/Business-Data-Analytics  
 本课程部分原创，部分引用，部分借鉴，如果侵权，请联系删除。
 
@@ -17,44 +17,39 @@
   - 1.3 商业数据分析案例前沿
   - 1.4 作业
 - 第2章 Python基本知识
-  - 2.1 Python介绍
+  - 2.1 Python介绍与安装
   - 2.2 数据类型
   - 2.3 流程控制
-  - 2.4 函数与模块
+  - 2.4 函数、模块和包
   - 2.5 作业
+  - 附录—函数的参数
   - 附录—更高效得编程
   - 附录—缩进和注释
+  - 附录—解决jupyterlab浏览器无法跳转问题.pdf
   - 附录—输入输出
   - 附录—面向对象编程
-- 第3章 Numpy科学计算
-  - 3.1 Numpy介绍
-  - 3.2 Numpy的一维数组
-  - 3.3 Numpy的二维数组
-  - 3.4 Numpy的应用
-  - 3.5 作业
-  - 练习答案-第3章 Numpy科学计算包
-  - 附录：help以及文档帮助
+- 第3章 NumPy科学计算
+  - 3.1 NumPy介绍
+  - 3.2 NumPy的一维数组
+  - 3.3 NumPy的应用
+  - 3.4 作业
+  - 附录—NumPy的二维数组
+  - 附录—help以及文档帮助
 - 第4章 Pandas数据分析
   - 4.1 Pandas介绍
   - 4.2 Pandas的数据框
   - 4.3 描述性统计方法
   - 4.4 作业
-  - 附录： DataFrame详细方法
-  - 附录：Pandas-Cheat-Sheet.pdf
-  - 附录：Pandas官方文档.pdf
-  - 附录：Series详细方法
+  - 附录—Pandas-Cheat-Sheet.pdf
 - 第5章 Matplotlib绘图
   - 5.1 可视化入门
-  - 5.2 matplotlib入门
-  - 5.3 作业
-  - 附录：matplotlib cheetsheet.pdf
-  - 附录：matplotlib手册.pdf
-  - 附录：中文无法正常显示的问题
-  - 附录：折线图
-  - 附录：散点图
-  - 附录：直方图和柱状图
-  - 附录：箱线图
-  - 附录：饼图
+  - 5.2 matplotlib绘图
+  - 5.3 多种图表类型
+  - 5.4 作业
+  - 附录—matplotlib cheetsheet.pdf
+  - 附录—matplotlib手册.pdf
+  - 附录—中文无法正常显示的问题
+  - 附录—交互式图表
 - 第6章 数据爬取与预处理
   - 6.1 网页爬虫——软件爬虫
   - 6.2 网页爬虫——代码爬虫
@@ -76,6 +71,7 @@
   - 8.3 决策树
   - 8.4 聚类
   - 8.5 神经网络
+  - 练习
 - 第9章 案例分析
   - 9.1 案例分析报告指导——巧克力销量影响因素研究
   - 9.2 案例分析的一般流程
