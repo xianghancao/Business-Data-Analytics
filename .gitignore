@@ -1,3 +1,4 @@
+*HTML*
 *.ipynb_checkpoints
 *.DS_Store
 *.key
@@ -7,3 +8,9 @@
 *PPT
 *NotInclude*
 *作业答案*
+*课件*
+*课程*
+*课程信息*
+*转换文件*
+*PPT*
+*.docx*
