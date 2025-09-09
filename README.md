@@ -1,11 +1,11 @@
 # 商业数据分析
-
-版本号：V2.13    
-更新日期：2023.12.16  
-作者：曹香汉  
-最新版：https://github.com/xianghancao/Business-Data-Analytics  
-
-本课件部分原创，如果侵权，请联系删除。本课件仅用于学术使用，勿做商业传播。
+![Version](https://img.shields.io/badge/version-2.13-blue.svg)
+![Updated](https://img.shields.io/badge/2023.12.16-blue.svg)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow.svg)
+![Format](https://img.shields.io/badge/format-PDF-green.svg)
+ 
+This course material is partially original. If it infringes on any rights, please contact me for removal. This material is for academic use only and should not be used for commercial distribution.
+Docs for site: https://business-data-analytics.readthedocs.io/
 
 
 ## 介绍

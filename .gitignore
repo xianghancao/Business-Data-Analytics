@@ -1,4 +1,4 @@
-*HTML*
+_docs
 *.ipynb_checkpoints
 *.DS_Store
 *.key
@@ -7,10 +7,11 @@
 *备课
 *PPT
 *NotInclude*
-*作业答案*
-*课件*
-*课程*
-*课程信息*
-*转换文件*
-*PPT*
+编译*
+额外章节
+课程信息/
 *.docx*
+_build/
+生成目录
+实验答案
+作业答案
