@@ -1,7 +1,6 @@
 format: jb-book
 root: Home
 chapters:
-- file: 首页/intro
 - file: 实验项目1：Python环境搭建/index
   sections:
   - file: 实验项目1：Python环境搭建/实验1：安装miniconda
