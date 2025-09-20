@@ -1,119 +1,101 @@
 format: jb-book
 root: Home
 chapters:
-
-- file: 实验项目1：Python环境搭建/index
+- file: 实验项目10：决策树/目录
+  sections:
+  - file: 实验项目10：决策树/1 决策树的理论
+  - file: 实验项目10：决策树/2 决策树的实现
+  - file: 实验项目10：决策树/3 决策树的应用—电话营销数据集
+  - file: 实验项目10：决策树/4 实验：消费信贷逾期预测
+- file: 实验项目11：聚类分析/目录
+  sections:
+  - file: 实验项目11：聚类分析/1 聚类的理论
+  - file: 实验项目11：聚类分析/2 K-means的实现
+  - file: 实验项目11：聚类分析/3 K-means的应用——商场客户群的划分
+- file: 实验项目12：文本分析处理/目录
+  sections:
+  - file: 实验项目12：文本分析处理/1 文本分析——美国总统就职演说中提及“战争”的次数
+  - file: 实验项目12：文本分析处理/2 词云图绘制——绘制一条新闻报道的词云
+  - file: 实验项目12：文本分析处理/3 实验——Tesla财报词云图绘制
+  - file: 实验项目12：文本分析处理/附录—中文文本分析
+  - file: 实验项目12：文本分析处理/附录—绘制一个中文的词云
+- file: 实验项目1：Python环境搭建/目录
   sections:
   - file: 实验项目1：Python环境搭建/实验1：安装miniconda
   - file: 实验项目1：Python环境搭建/实验2：安装Jupyter Lab
   - file: 实验项目1：Python环境搭建/实验3：pip安装常用库
   - file: 实验项目1：Python环境搭建/实验流程
   - file: 实验项目1：Python环境搭建/实验说明
-- file: 实验项目2：Python的变量和数据类型/index
+- file: 实验项目2：Python的变量和数据类型/目录
   sections:
   - file: 实验项目2：Python的变量和数据类型/实验1：变量与赋值
   - file: 实验项目2：Python的变量和数据类型/实验2：数据类型
   - file: 实验项目2：Python的变量和数据类型/实验3：数据结构
   - file: 实验项目2：Python的变量和数据类型/实验流程
   - file: 实验项目2：Python的变量和数据类型/实验说明
-  - file: 实验项目2：Python的变量和数据类型/目录
   - file: 实验项目2：Python的变量和数据类型/附录—更高效得编程
   - file: 实验项目2：Python的变量和数据类型/附录—缩进和注释
-- file: 实验项目3：Python的判断语句和循环语句/index
+- file: 实验项目3：Python的判断语句和循环语句/目录
   sections:
   - file: 实验项目3：Python的判断语句和循环语句/实验1：判断语句
   - file: 实验项目3：Python的判断语句和循环语句/实验2：循环语句
   - file: 实验项目3：Python的判断语句和循环语句/实验流程
   - file: 实验项目3：Python的判断语句和循环语句/实验说明
-  - file: 实验项目3：Python的判断语句和循环语句/目录
-- file: 实验项目4：Python的函数和类/index
+- file: 实验项目4：Python的函数和类/目录
   sections:
   - file: 实验项目4：Python的函数和类/实验1：函数
   - file: 实验项目4：Python的函数和类/实验2：类与对象
   - file: 实验项目4：Python的函数和类/实验流程
   - file: 实验项目4：Python的函数和类/实验说明
-  - file: 实验项目4：Python的函数和类/目录
   - file: 实验项目4：Python的函数和类/附录：函数的参数
   - file: 实验项目4：Python的函数和类/附录：模块和包
   - file: 实验项目4：Python的函数和类/附录：继承和多态
-- file: 实验项目5：NumPy科学计算/index
+- file: 实验项目5：NumPy科学计算/目录
   sections:
   - file: 实验项目5：NumPy科学计算/1 NumPy的一维数组
   - file: 实验项目5：NumPy科学计算/2 NumPy的二维数组
   - file: 实验项目5：NumPy科学计算/实验1：零售商店的商业数据分析场景
   - file: 实验项目5：NumPy科学计算/实验2：顾客满意度调查分析
   - file: 实验项目5：NumPy科学计算/实验说明
-  - file: 实验项目5：NumPy科学计算/目录
   - file: 实验项目5：NumPy科学计算/附录：NumPy介绍
   - file: 实验项目5：NumPy科学计算/附录：NumPy的应用—图像数据
   - file: 实验项目5：NumPy科学计算/附录：NumPy的应用—自然语言
   - file: 实验项目5：NumPy科学计算/附录：NumPy的应用—音频数据
   - file: 实验项目5：NumPy科学计算/附录：help以及文档帮助
-- file: 实验项目6：Pandas数据分析/index
+- file: 实验项目6：Pandas数据分析/目录
   sections:
   - file: 实验项目6：Pandas数据分析/1_Pandas介绍
   - file: 实验项目6：Pandas数据分析/2_Pandas的数据框
   - file: 实验项目6：Pandas数据分析/3_描述性统计方法
   - file: 实验项目6：Pandas数据分析/实验流程
-  - file: 实验项目6：Pandas数据分析/目录
   - file: 实验项目6：Pandas数据分析/附录—CSV文件编码问题
   - file: 实验项目6：Pandas数据分析/附录—Series
-- file: 实验项目7：Matplotlib数据可视化/index
+- file: 实验项目7：Matplotlib数据可视化/目录
   sections:
   - file: 实验项目7：Matplotlib数据可视化/实验1_matplotlib绘图流程
   - file: 实验项目7：Matplotlib数据可视化/实验2_matplotlib的绘图样式
   - file: 实验项目7：Matplotlib数据可视化/实验流程
-  - file: 实验项目7：Matplotlib数据可视化/目录
   - file: 实验项目7：Matplotlib数据可视化/附录—matplotlib绘制多个子图
   - file: 实验项目7：Matplotlib数据可视化/附录—matplotlib绘制多种图表
   - file: 实验项目7：Matplotlib数据可视化/附录—中文无法正常显示的问题
   - file: 实验项目7：Matplotlib数据可视化/附录—可视化入门
   - file: 实验项目7：Matplotlib数据可视化/附录—图片的多种文件格式
   - file: 实验项目7：Matplotlib数据可视化/附录—在jupyter中显示无损图形
-- file: 实验项目8：数据爬取与预处理/index
+- file: 实验项目8：数据爬取与预处理/目录
   sections:
   - file: 实验项目8：数据爬取与预处理/实验1：软件爬取数据
   - file: 实验项目8：数据爬取与预处理/实验2：数据预处理
   - file: 实验项目8：数据爬取与预处理/实验流程
-  - file: 实验项目8：数据爬取与预处理/目录
   - file: 实验项目8：数据爬取与预处理/附录：网页爬虫
-- file: 实验项目9：回归分析/index
+- file: 实验项目9：回归分析/目录
   sections:
   - file: 实验项目9：回归分析/1 线性回归的理论
   - file: 实验项目9：回归分析/2 线性回归的实现
   - file: 实验项目9：回归分析/3 线性回归的应用——波士顿房屋价格预测
   - file: 实验项目9：回归分析/参考：波士顿房屋价格预测
-  - file: 实验项目9：回归分析/目录
-- file: 实验项目10：决策树/index
-  sections:
-  - file: 实验项目10：决策树/1 决策树的理论
-  - file: 实验项目10：决策树/2 决策树的实现
-  - file: 实验项目10：决策树/3 决策树的应用—电话营销数据集
-  - file: 实验项目10：决策树/4 实验：消费信贷逾期预测
-- file: 实验项目11：聚类分析/index
-  sections:
-  - file: 实验项目11：聚类分析/1 聚类的理论
-  - file: 实验项目11：聚类分析/2 K-means的实现
-  - file: 实验项目11：聚类分析/3 K-means的应用——商场客户群的划分
-  - file: 实验项目11：聚类分析/目录
-- file: 实验项目12：文本分析处理/index
-  sections:
-  - file: 实验项目12：文本分析处理/1 文本分析——美国总统就职演说中提及“战争”的次数
-  - file: 实验项目12：文本分析处理/2 词云图绘制——绘制一条新闻报道的词云
-  - file: 实验项目12：文本分析处理/3 实验——Tesla财报词云图绘制
-  - file: 实验项目12：文本分析处理/目录
-  - file: 实验项目12：文本分析处理/附录—中文文本分析
-  - file: 实验项目12：文本分析处理/附录—绘制一个中文的词云
-- file: 期中报告/index
-  sections:
-  - file: 期中报告/目录
-- file: 期末报告/index
-  sections:
-  - file: 期末报告/目录
-- file: 综合设计实验项目/index
+- file: 综合设计实验项目/目录
   sections:
   - file: 综合设计实验项目/1 案例分析的一般流程
   - file: 综合设计实验项目/2 商业数据分析报告的撰写范例
   - file: 综合设计实验项目/3 商业数据分析大赛案例赏析
-  - file: 综合设计实验项目/目录
   - file: 综合设计实验项目/附录—markdown语言
