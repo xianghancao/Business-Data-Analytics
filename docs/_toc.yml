@@ -1,6 +1,7 @@
 format: jb-book
 root: Home
 chapters:
+
 - file: 实验项目1：Python环境搭建/index
   sections:
   - file: 实验项目1：Python环境搭建/实验1：安装miniconda
@@ -8,7 +9,6 @@ chapters:
   - file: 实验项目1：Python环境搭建/实验3：pip安装常用库
   - file: 实验项目1：Python环境搭建/实验流程
   - file: 实验项目1：Python环境搭建/实验说明
-  - file: 实验项目1：Python环境搭建/目录
 - file: 实验项目2：Python的变量和数据类型/index
   sections:
   - file: 实验项目2：Python的变量和数据类型/实验1：变量与赋值
@@ -90,7 +90,6 @@ chapters:
   - file: 实验项目10：决策树/2 决策树的实现
   - file: 实验项目10：决策树/3 决策树的应用—电话营销数据集
   - file: 实验项目10：决策树/4 实验：消费信贷逾期预测
-  - file: 实验项目10：决策树/目录
 - file: 实验项目11：聚类分析/index
   sections:
   - file: 实验项目11：聚类分析/1 聚类的理论
@@ -118,4 +117,3 @@ chapters:
   - file: 综合设计实验项目/3 商业数据分析大赛案例赏析
   - file: 综合设计实验项目/目录
   - file: 综合设计实验项目/附录—markdown语言
-
