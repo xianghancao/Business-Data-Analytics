@@ -1,12 +1,9 @@
 # 商业数据分析
+![Version](https://img.shields.io/badge/Version-3.0-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-2024.12-blue.svg)
+![Format](https://img.shields.io/badge/Format-PDF-green.svg)
 
-![Version](https://img.shields.io/badge/version-2.13-blue.svg)
-![Updated](https://img.shields.io/badge/2023.12.16-blue.svg)
-![Status](https://img.shields.io/badge/status-in%20progress-yellow.svg)
-![Format](https://img.shields.io/badge/format-PDF-green.svg)
- 
-This course material is partially original. If it infringes on any rights, please contact me for removal. This material is for academic use only and should not be used for commercial distribution.
-Docs for site: https://business-data-analytics.readthedocs.io/
+本课件部分原创，如果侵权，请联系删除。本课件仅用于学术使用，勿做商业传播。
 
 
 ## 介绍
@@ -20,3 +17,8 @@ Docs for site: https://business-data-analytics.readthedocs.io/
 3. 图片多，大部分知识点应用可视化的方式，降低学习难度
 4. 每章节均搭配有ipynb格式的代码课件，学生可以本地运行代码
 5. 每章节均搭配在线互动网页，学生可以线上互动
+
+版本号：V3.0
+更新日期：2024.12
+
+本课件限教学班级学生使用，勿做商业传播。如果部分内容侵权，请联系删除。
